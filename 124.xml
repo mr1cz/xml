@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Operations>
+    <ValCurs Date="11.11.2021" name="Foreign Currency Market">
+        <Valute ID="R01010"><NumCode>036</NumCode><CharCode>AUD</CharCode><Nominal>1</Nominal><Name>Australian Dollar</Name><Value>55,6634</Value></Valute>
+        <Valute ID="R01020A"><NumCode>944</NumCode><CharCode>AZN</CharCode><Nominal>1</Nominal><Name>Azerbaijan Manat</Name><Value>44,9663</Value></Valute>
+        <Valute ID="R01035"><NumCode>826</NumCode><CharCode>GBP</CharCode><Nominal>1</Nominal><Name>British Pound Sterling</Name><Value>100,9597</Value></Valute>
+        <Valute ID="R01060"><NumCode>051</NumCode><CharCode>AMD</CharCode><Nominal>100</Nominal><Name>Armenia Dram</Name><Value>15,4824</Value></Valute>
+        <Valute ID="R01090B"><NumCode>933</NumCode><CharCode>BYN</CharCode><Nominal>1</Nominal><Name>Belarussian Ruble</Name><Value>29,8966</Value></Valute>
+        <Valute ID="R01100"><NumCode>975</NumCode><CharCode>BGN</CharCode><Nominal>1</Nominal><Name>Bulgarian lev</Name><Value>46,2316</Value></Valute>
+        <Valute ID="R01115"><NumCode>986</NumCode><CharCode>BRL</CharCode><Nominal>1</Nominal><Name>Brazil Real</Name><Value>9,1843</Value></Valute>
+        <Valute ID="R01760"><NumCode>203</NumCode><CharCode>CZK</CharCode><Nominal>10</Nominal><Name>Czech Koruna</Name><Value>34,1443</Value></Valute>
+        <Valute ID="R01770"><NumCode>752</NumCode><CharCode>SEK</CharCode><Nominal>10</Nominal><Name>Swedish Krona</Name><Value>88,6563</Value></Valute>
+        <Valute ID="R01775"><NumCode>756</NumCode><CharCode>CHF</CharCode><Nominal>1</Nominal><Name>Swiss Franc</Name><Value>83,6961</Value></Valute>
+        <Valute ID="R01810"><NumCode>710</NumCode><CharCode>ZAR</CharCode><Nominal>10</Nominal><Name>S.African Rand</Name><Value>49,5167</Value></Valute>
+        <Valute ID="R01815"><NumCode>410</NumCode><CharCode>KRW</CharCode><Nominal>1000</Nominal><Name>South Korean Won</Name><Value>68,5394</Value></Valute>
+        <Valute ID="R01820"><NumCode>392</NumCode><CharCode>JPY</CharCode><Nominal>100</Nominal><Name>Japanese Yen</Name><Value>72,7217</Value></Valute>
+    </ValCurs>
+
+    <ValCurs Date="12.11.2021" name="Foreign Currency Market">
+        <Valute ID="R01010"><NumCode>036</NumCode><CharCode>AUD</CharCode><Nominal>1</Nominal><Name>Australian Dollar</Name><Value>55,3214</Value></Valute>
+        <Valute ID="R01020A"><NumCode>944</NumCode><CharCode>AZN</CharCode><Nominal>1</Nominal><Name>Azerbaijan Manat</Name><Value>45,0063</Value></Valute>
+        <Valute ID="R01035"><NumCode>826</NumCode><CharCode>GBP</CharCode><Nominal>1</Nominal><Name>British Pound Sterling</Name><Value>105,0937</Value></Valute>
+        <Valute ID="R01060"><NumCode>051</NumCode><CharCode>AMD</CharCode><Nominal>100</Nominal><Name>Armenia Dram</Name><Value>14,0204</Value></Valute>
+        <Valute ID="R01090B"><NumCode>933</NumCode><CharCode>BYN</CharCode><Nominal>1</Nominal><Name>Belarussian Ruble</Name><Value>27,8001</Value></Valute>
+        <Valute ID="R01100"><NumCode>975</NumCode><CharCode>BGN</CharCode><Nominal>1</Nominal><Name>Bulgarian lev</Name><Value>41,0016</Value></Valute>
+        <Valute ID="R01115"><NumCode>986</NumCode><CharCode>BRL</CharCode><Nominal>1</Nominal><Name>Brazil Real</Name><Value>64,1013</Value></Valute>
+        <Valute ID="R01760"><NumCode>203</NumCode><CharCode>CZK</CharCode><Nominal>10</Nominal><Name>Czech Koruna</Name><Value>34,1003</Value></Valute>
+        <Valute ID="R01770"><NumCode>752</NumCode><CharCode>SEK</CharCode><Nominal>10</Nominal><Name>Swedish Krona</Name><Value>88,6963</Value></Valute>
+        <Valute ID="R01775"><NumCode>756</NumCode><CharCode>CHF</CharCode><Nominal>1</Nominal><Name>Swiss Franc</Name><Value>83,6861</Value></Valute>
+        <Valute ID="R01810"><NumCode>710</NumCode><CharCode>ZAR</CharCode><Nominal>10</Nominal><Name>S.African Rand</Name><Value>49,5197</Value></Valute>
+        <Valute ID="R01815"><NumCode>410</NumCode><CharCode>KRW</CharCode><Nominal>1000</Nominal><Name>South Korean Won</Name><Value>68,5994</Value></Valute>
+        <Valute ID="R01820"><NumCode>392</NumCode><CharCode>JPY</CharCode><Nominal>100</Nominal><Name>Japanese Yen</Name><Value>72,7117</Value></Valute>
+    </ValCurs>
+
+    <ValCurs Date="13.11.2021" name="Foreign Currency Market">
+        <Valute ID="R01010"><NumCode>036</NumCode><CharCode>AUD</CharCode><Nominal>1</Nominal><Name>Australian Dollar</Name><Value>56,7684</Value></Valute>
+        <Valute ID="R01020A"><NumCode>944</NumCode><CharCode>AZN</CharCode><Nominal>1</Nominal><Name>Azerbaijan Manat</Name><Value>43,0623</Value></Valute>
+        <Valute ID="R01035"><NumCode>826</NumCode><CharCode>GBP</CharCode><Nominal>1</Nominal><Name>British Pound Sterling</Name><Value>101,0097</Value></Valute>
+        <Valute ID="R01060"><NumCode>051</NumCode><CharCode>AMD</CharCode><Nominal>100</Nominal><Name>Armenia Dram</Name><Value>11,4054</Value></Valute>
+        <Valute ID="R01090B"><NumCode>933</NumCode><CharCode>BYN</CharCode><Nominal>1</Nominal><Name>Belarussian Ruble</Name><Value>25,0066</Value></Valute>
+        <Valute ID="R01100"><NumCode>975</NumCode><CharCode>BGN</CharCode><Nominal>1</Nominal><Name>Bulgarian lev</Name><Value>50,3516</Value></Valute>
+        <Valute ID="R01115"><NumCode>986</NumCode><CharCode>BRL</CharCode><Nominal>1</Nominal><Name>Brazil Real</Name><Value>20,2043</Value></Valute>
+        <Valute ID="R01770"><NumCode>752</NumCode><CharCode>SEK</CharCode><Nominal>10</Nominal><Name>Swedish Krona</Name><Value>90,6003</Value></Valute>
+        <Valute ID="R01775"><NumCode>756</NumCode><CharCode>CHF</CharCode><Nominal>1</Nominal><Name>Swiss Franc</Name><Value>101,3361</Value></Valute>
+        <Valute ID="R01810"><NumCode>710</NumCode><CharCode>ZAR</CharCode><Nominal>10</Nominal><Name>S.African Rand</Name><Value>52,5007</Value></Valute>
+        <Valute ID="R01815"><NumCode>410</NumCode><CharCode>KRW</CharCode><Nominal>1000</Nominal><Name>South Korean Won</Name><Value>64,3374</Value></Valute>
+        <Valute ID="R01820"><NumCode>392</NumCode><CharCode>JPY</CharCode><Nominal>100</Nominal><Name>Japanese Yen</Name><Value>88,2127</Value></Valute>
+    </ValCurs>
+
+
+    <ValCurs Date="14.11.2021" name="Foreign Currency Market">
+        <Valute ID="R01010"><NumCode>036</NumCode><CharCode>AUD</CharCode><Nominal>1</Nominal><Name>Australian Dollar</Name><Value>50,3244</Value></Valute>
+        <Valute ID="R01020A"><NumCode>944</NumCode><CharCode>AZN</CharCode><Nominal>1</Nominal><Name>Azerbaijan Manat</Name><Value>40,2181</Value></Valute>
+        <Valute ID="R01035"><NumCode>826</NumCode><CharCode>GBP</CharCode><Nominal>1</Nominal><Name>British Pound Sterling</Name><Value>100,9117</Value></Valute>
+        <Valute ID="R01060"><NumCode>051</NumCode><CharCode>AMD</CharCode><Nominal>100</Nominal><Name>Armenia Dram</Name><Value>15,4811</Value></Valute>
+        <Valute ID="R01090B"><NumCode>933</NumCode><CharCode>BYN</CharCode><Nominal>1</Nominal><Name>Belarussian Ruble</Name><Value>27,8989</Value></Valute>
+        <Valute ID="R01100"><NumCode>975</NumCode><CharCode>BGN</CharCode><Nominal>1</Nominal><Name>Bulgarian lev</Name><Value>46,2789</Value></Valute>
+        <Valute ID="R01115"><NumCode>986</NumCode><CharCode>BRL</CharCode><Nominal>1</Nominal><Name>Brazil Real</Name><Value>10,1001</Value></Valute>
+        <Valute ID="R01760"><NumCode>203</NumCode><CharCode>CZK</CharCode><Nominal>10</Nominal><Name>Czech Koruna</Name><Value>33,3131</Value></Valute>
+        <Valute ID="R01770"><NumCode>752</NumCode><CharCode>SEK</CharCode><Nominal>10</Nominal><Name>Swedish Krona</Name><Value>90,0003</Value></Valute>
+        <Valute ID="R01775"><NumCode>756</NumCode><CharCode>CHF</CharCode><Nominal>1</Nominal><Name>Swiss Franc</Name><Value>87,9991</Value></Valute>
+        <Valute ID="R01810"><NumCode>710</NumCode><CharCode>ZAR</CharCode><Nominal>10</Nominal><Name>S.African Rand</Name><Value>55,6667</Value></Valute>
+        <Valute ID="R01815"><NumCode>410</NumCode><CharCode>KRW</CharCode><Nominal>1000</Nominal><Name>South Korean Won</Name><Value>75,2103</Value></Valute>
+        <Valute ID="R01820"><NumCode>392</NumCode><CharCode>JPY</CharCode><Nominal>100</Nominal><Name>Japanese Yen</Name><Value>71,5557</Value></Valute>
+    </ValCurs>
+
+
+    <ValCurs Date="15.11.2021" name="Foreign Currency Market">
+        <Valute ID="R01010"><NumCode>036</NumCode><CharCode>AUD</CharCode><Nominal>1</Nominal><Name>Australian Dollar</Name><Value>75,9914</Value></Valute>
+        <Valute ID="R01020A"><NumCode>944</NumCode><CharCode>AZN</CharCode><Nominal>1</Nominal><Name>Azerbaijan Manat</Name><Value>41,3333</Value></Valute>
+        <Valute ID="R01035"><NumCode>826</NumCode><CharCode>GBP</CharCode><Nominal>1</Nominal><Name>British Pound Sterling</Name><Value>111,1197</Value></Valute>
+        <Valute ID="R01060"><NumCode>051</NumCode><CharCode>AMD</CharCode><Nominal>100</Nominal><Name>Armenia Dram</Name><Value>4,2224</Value></Valute>
+        <Valute ID="R01090B"><NumCode>933</NumCode><CharCode>BYN</CharCode><Nominal>1</Nominal><Name>Belarussian Ruble</Name><Value>31,2266</Value></Valute>
+        <Valute ID="R01100"><NumCode>975</NumCode><CharCode>BGN</CharCode><Nominal>1</Nominal><Name>Bulgarian lev</Name><Value>55,2136</Value></Valute>
+        <Valute ID="R01115"><NumCode>986</NumCode><CharCode>BRL</CharCode><Nominal>1</Nominal><Name>Brazil Real</Name><Value>14,1743</Value></Valute>
+        <Valute ID="R01760"><NumCode>203</NumCode><CharCode>CZK</CharCode><Nominal>10</Nominal><Name>Czech Koruna</Name><Value>34,1333</Value></Valute>
+        <Valute ID="R01770"><NumCode>752</NumCode><CharCode>SEK</CharCode><Nominal>10</Nominal><Name>Swedish Krona</Name><Value>88,2563</Value></Valute>
+        <Valute ID="R01775"><NumCode>756</NumCode><CharCode>CHF</CharCode><Nominal>1</Nominal><Name>Swiss Franc</Name><Value>82,6901</Value></Valute>
+        <Valute ID="R01810"><NumCode>710</NumCode><CharCode>ZAR</CharCode><Nominal>10</Nominal><Name>S.African Rand</Name><Value>48,5117</Value></Valute>
+        <Valute ID="R01815"><NumCode>410</NumCode><CharCode>KRW</CharCode><Nominal>1000</Nominal><Name>South Korean Won</Name><Value>61,5294</Value></Valute>
+        <Valute ID="R01820"><NumCode>392</NumCode><CharCode>JPY</CharCode><Nominal>100</Nominal><Name>Japanese Yen</Name><Value>99,9997</Value></Valute>
+    </ValCurs>
+
+    <ValCurs Date="01.11.2021" name="Foreign Currency Market">
+        <Valute ID="R01010"><NumCode>036</NumCode><CharCode>AUD</CharCode><Nominal>1</Nominal><Name>Australian Dollar</Name><Value>7995,9914</Value></Valute>
+        <Valute ID="R01020A"><NumCode>944</NumCode><CharCode>AZN</CharCode><Nominal>1</Nominal><Name>Azerbaijan Manat</Name><Value>4991,3333</Value></Valute>
+        <Valute ID="R01035"><NumCode>826</NumCode><CharCode>GBP</CharCode><Nominal>1</Nominal><Name>British Pound Sterling</Name><Value>199911,1197</Value></Valute>
+        <Valute ID="R01060"><NumCode>051</NumCode><CharCode>AMD</CharCode><Nominal>100</Nominal><Name>Armenia Dram</Name><Value>499,2224</Value></Valute>
+        <Valute ID="R01090B"><NumCode>933</NumCode><CharCode>BYN</CharCode><Nominal>1</Nominal><Name>Belarussian Ruble</Name><Value>3199,2266</Value></Valute>
+        <Valute ID="R01100"><NumCode>975</NumCode><CharCode>BGN</CharCode><Nominal>1</Nominal><Name>Bulgarian lev</Name><Value>5599,2136</Value></Valute>
+        <Valute ID="R01115"><NumCode>986</NumCode><CharCode>BRL</CharCode><Nominal>1</Nominal><Name>Brazil Real</Name><Value>14999,1743</Value></Valute>
+        <Valute ID="R01760"><NumCode>203</NumCode><CharCode>CZK</CharCode><Nominal>10</Nominal><Name>Czech Koruna</Name><Value>3499,1333</Value></Valute>
+        <Valute ID="R01770"><NumCode>752</NumCode><CharCode>SEK</CharCode><Nominal>10</Nominal><Name>Swedish Krona</Name><Value>8899,2563</Value></Valute>
+        <Valute ID="R01775"><NumCode>756</NumCode><CharCode>CHF</CharCode><Nominal>1</Nominal><Name>Swiss Franc</Name><Value>8299,6901</Value></Valute>
+        <Valute ID="R01810"><NumCode>710</NumCode><CharCode>ZAR</CharCode><Nominal>10</Nominal><Name>S.African Rand</Name><Value>4899,5117</Value></Valute>
+        <Valute ID="R01815"><NumCode>410</NumCode><CharCode>KRW</CharCode><Nominal>1000</Nominal><Name>South Korean Won</Name><Value>6199,5294</Value></Valute>
+        <Valute ID="R01820"><NumCode>392</NumCode><CharCode>JPY</CharCode><Nominal>100</Nominal><Name>Japanese Yen</Name><Value>9999,9997</Value></Valute>
+    </ValCurs>
+
+</Operations>
